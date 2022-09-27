@@ -1,6 +1,6 @@
 # flutter_login_signup_android
 
-A new Flutter project.
+flutter project that has two buttons that directs to different screens
 
 ## Getting Started
 
